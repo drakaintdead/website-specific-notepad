@@ -6,7 +6,7 @@ This chrome extension is designed to give you a notepad that changes for every w
 
 As the extension is still in development, it is not listed on the chrome web store. to use it, follow these steps:
 > 1. Download the main branch of this repo.
->> - Make sure that all the files are in a singular folder
+>     - Make sure that all the files are in a singular folder
 > 2. Open the chrome manage extensions page, by either clicking on the extensions icon and then clicking "Manage Extensions" or by going to <chrome://extensions>.
 > 3. In the top right of the page, click the button to enable developer mode. This lets you load extensions that are not on the chrome web store.
 > 4. Click `Load unpacked` in the top left of the page, and select the folder that contains all of the extensions files.
