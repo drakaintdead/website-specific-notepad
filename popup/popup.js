@@ -11,7 +11,7 @@ async function getCurrentTab() {
 
 getCurrentTab().then(
     function(value) {
-        currentTab = value.url
+        currentTab = new URL(value.url).hostname
         console.log(currentTab)
         
         chrome.storage.local.get(currentTab, function(result) {
