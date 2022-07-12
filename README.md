@@ -15,9 +15,9 @@ As the extension is still in development, it is not listed on the chrome web sto
 ---
 
 #### To do:
-> 1. Make it so the notepad isn't different for subpages of a url, and only different for the main url.
-> 2. Add styling to make it look better.
-> 3. Add an options page where you can clear all notepads.
+> 1. Add styling to make it look better.
+> 2. Add a list in the options page that shows all currently saved notes.
+
 
 ---
 
